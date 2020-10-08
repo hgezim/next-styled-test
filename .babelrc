@@ -1,11 +1,6 @@
- 
-
- { "presets": [
-    [
-      "next/babel",
-      
-        "styled-jsx"
-    ]
-    ]
-  
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    ["styled-jsx/babel"]
+  ]
 }

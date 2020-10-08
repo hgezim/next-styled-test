@@ -1,5 +1,6 @@
 import { Fragment } from 'react';
 import react from "react";
+import _JSXStyle from 'styled-jsx/style'
 
 const ChildComponent = () => (
     <>
